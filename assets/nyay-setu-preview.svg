@@ -1,0 +1,47 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="url(#bg)"/>
+  <circle cx="152" cy="154" r="138" fill="#F1F7FF"/>
+  <circle cx="1028" cy="134" r="176" fill="#E0EEFF"/>
+  <circle cx="1052" cy="790" r="214" fill="#DCE7F3"/>
+  <rect x="86" y="104" width="1028" height="692" rx="46" fill="white" fill-opacity="0.72"/>
+  <rect x="122" y="140" width="956" height="82" rx="28" fill="#F6F9FD"/>
+  <circle cx="167" cy="181" r="10" fill="#D8E5F3"/>
+  <circle cx="201" cy="181" r="10" fill="#D8E5F3"/>
+  <circle cx="235" cy="181" r="10" fill="#D8E5F3"/>
+  <rect x="286" y="162" width="280" height="36" rx="18" fill="#E7F1FD"/>
+  <rect x="122" y="262" width="392" height="498" rx="30" fill="#F9FBFE"/>
+  <rect x="550" y="262" width="528" height="498" rx="30" fill="#F6F9FD"/>
+  <rect x="156" y="310" width="222" height="24" rx="12" fill="#1B304B"/>
+  <text x="156" y="368" fill="#314F74" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Nyay Setu</text>
+  <text x="156" y="414" fill="#6A7D96" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Voice + Chat Support</text>
+  <rect x="156" y="468" width="302" height="176" rx="28" fill="url(#voiceCard)"/>
+  <circle cx="250" cy="557" r="46" fill="white" fill-opacity="0.26"/>
+  <path d="M250 524V557" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <path d="M224 556C224 570.359 235.641 582 250 582C264.359 582 276 570.359 276 556" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <path d="M250 582V604" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <path d="M231 604H269" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <text x="318" y="547" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Always-on</text>
+  <text x="318" y="585" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">assistance</text>
+  <rect x="586" y="304" width="216" height="28" rx="14" fill="#E8F2FF"/>
+  <text x="612" y="323" fill="#0A84FF" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="2">SUPPORT LAYER</text>
+  <rect x="586" y="368" width="454" height="100" rx="24" fill="#FFFFFF"/>
+  <rect x="610" y="394" width="252" height="18" rx="9" fill="#284A72"/>
+  <rect x="610" y="426" width="334" height="14" rx="7" fill="#D8E5F3"/>
+  <rect x="586" y="492" width="360" height="96" rx="24" fill="#EDF5FF"/>
+  <rect x="970" y="492" width="70" height="96" rx="24" fill="#0A84FF"/>
+  <path d="M994 540H1014" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1004 530L1014 540L1004 550" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="586" y="620" width="454" height="96" rx="24" fill="#FFFFFF"/>
+  <rect x="610" y="646" width="296" height="18" rx="9" fill="#284A72"/>
+  <rect x="610" y="678" width="354" height="14" rx="7" fill="#D8E5F3"/>
+  <defs>
+    <linearGradient id="bg" x1="74" y1="70" x2="1114" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFF5FB"/>
+      <stop offset="1" stop-color="#DAE5F1"/>
+    </linearGradient>
+    <linearGradient id="voiceCard" x1="156" y1="468" x2="458" y2="644" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#68B0FF"/>
+      <stop offset="1" stop-color="#0A84FF"/>
+    </linearGradient>
+  </defs>
+</svg>

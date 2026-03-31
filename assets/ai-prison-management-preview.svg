@@ -1,0 +1,53 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="url(#bg)"/>
+  <circle cx="164" cy="122" r="144" fill="#EAF3FF"/>
+  <circle cx="1034" cy="204" r="182" fill="#D6E8FF"/>
+  <circle cx="1008" cy="778" r="200" fill="#D9E3EF"/>
+  <rect x="84" y="100" width="1032" height="700" rx="46" fill="#FFFFFF" fill-opacity="0.72"/>
+  <rect x="118" y="136" width="964" height="82" rx="28" fill="#F6F9FD"/>
+  <circle cx="163" cy="177" r="10" fill="#D7E4F4"/>
+  <circle cx="197" cy="177" r="10" fill="#D7E4F4"/>
+  <circle cx="231" cy="177" r="10" fill="#D7E4F4"/>
+  <rect x="280" y="158" width="272" height="36" rx="18" fill="#E5EFFC"/>
+  <rect x="846" y="156" width="200" height="40" rx="20" fill="#13253C"/>
+  <text x="905" y="181" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">LIVE MONITORING</text>
+  <rect x="118" y="258" width="264" height="502" rx="28" fill="#F6F9FD"/>
+  <rect x="412" y="258" width="670" height="502" rx="28" fill="#F9FBFE"/>
+  <rect x="150" y="302" width="198" height="18" rx="9" fill="#A5C4E9"/>
+  <rect x="150" y="354" width="166" height="14" rx="7" fill="#D8E5F4"/>
+  <rect x="150" y="384" width="138" height="14" rx="7" fill="#D8E5F4"/>
+  <rect x="150" y="446" width="198" height="128" rx="24" fill="url(#alertCard)"/>
+  <text x="178" y="495" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Breach Alert</text>
+  <text x="178" y="540" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">124</text>
+  <rect x="446" y="304" width="210" height="28" rx="14" fill="#E8F2FF"/>
+  <text x="472" y="323" fill="#0A84FF" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="2">OPERATIONS LAYER</text>
+  <rect x="446" y="366" width="560" height="218" rx="30" fill="url(#chart)"/>
+  <path d="M496 506C551.431 464.569 611.431 431.235 676 448C742.994 465.394 807.863 551.904 884 528.5C935.795 512.578 985.128 458.607 1032 396" stroke="#0A84FF" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="496" cy="506" r="18" fill="#0A84FF"/>
+  <circle cx="676" cy="448" r="18" fill="#0A84FF"/>
+  <circle cx="884" cy="528" r="18" fill="#0A84FF"/>
+  <circle cx="1032" cy="396" r="18" fill="#0A84FF"/>
+  <rect x="446" y="620" width="180" height="92" rx="24" fill="#13253C"/>
+  <rect x="650" y="620" width="180" height="92" rx="24" fill="#EEF5FD"/>
+  <rect x="854" y="620" width="180" height="92" rx="24" fill="#EEF5FD"/>
+  <text x="478" y="660" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Undertrials</text>
+  <text x="478" y="697" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">8,420</text>
+  <text x="686" y="660" fill="#2A4667" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Bail Ready</text>
+  <text x="686" y="697" fill="#2A4667" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">2,116</text>
+  <text x="890" y="660" fill="#2A4667" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Overcrowded</text>
+  <text x="890" y="697" fill="#2A4667" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">37</text>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="76" x2="1118" y2="830" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF5FC"/>
+      <stop offset="1" stop-color="#DAE4F0"/>
+    </linearGradient>
+    <linearGradient id="alertCard" x1="150" y1="446" x2="348" y2="574" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B9EF4"/>
+      <stop offset="1" stop-color="#0A84FF"/>
+    </linearGradient>
+    <linearGradient id="chart" x1="446" y1="366" x2="1006" y2="584" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1F7FE"/>
+      <stop offset="1" stop-color="#E2EDF8"/>
+    </linearGradient>
+  </defs>
+</svg>
